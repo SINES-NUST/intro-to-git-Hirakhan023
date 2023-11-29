@@ -15,7 +15,8 @@
 - And also i have learnt File handling(reading and writing files)
 
 ## Suggestions
-- To improve learning, encourage active participation in group discussions, team projects, or interactive course components.
-- Establish routine check-ins with students in small groups to learn about their unique learning requirements and to address any issues. 
+- Encourage active participation in group discussions, team projects, or interactive course components.
+- Schedule regular check-ins with small groups of students to find out about their individual learning needs and to resolve any concerns. 
+
 
 
